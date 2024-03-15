@@ -1,0 +1,48 @@
+h1 {
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    /* background-color: brown; */
+    background-image: url(../resources/images/bgImage.avif);
+    background-size: cover;
+    padding: 40px;
+    margin-top: 0;
+    border-radius: 0 0 20px 20px;
+ }
+ul {
+    margin: 0;
+    padding: 20px;
+    color: black;
+    
+ }
+ 
+  nav li {
+    display: inline-block;
+ 
+    width: 100px;
+    list-style: none;
+ }
+ 
+ a {
+    color: black;
+    text-decoration: none;
+ }
+
+ .p1{
+   background-color: white;
+   display: inline-block;
+
+   width: 250px;
+   height:150px;
+   margin:20px;
+   border-width: 5px;
+   border-color: grey;
+ }
+ button:hover{
+   /* margin-top: 30px; */
+   font-size: large;
+   background-color: #D3D3D3;
+  
+ 
+ }
+ 
