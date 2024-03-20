@@ -31,7 +31,7 @@ a {
    text-decoration: none;
 }
 
- #about img {
+#about img {
    height: 300px;
    width: 300px;
 
@@ -41,16 +41,17 @@ a {
 
 #about {
    display: inline-block;
-   
+
    /* background-color: green; */
 }
 
-#about p{
-  font-size:x-large;
-  margin-top: 80px;
-padding: 5px;
-font-family:Georgia, 'Times New Roman', Times, serif;
+#about p {
+   font-size: x-large;
+   margin-top: 80px;
+   padding: 5px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 h2 {
    color: brown;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -58,12 +59,13 @@ h2 {
 
 #edu img {
    float: right;
-height: 200px;
-width: 200px;
+   height: 200px;
+   width: 200px;
 
 
 
 }
+
 /* #edu p{
    font-size:x-large;
   
@@ -80,9 +82,9 @@ div {
 
 p {
    font-size: x-large;
-   
+
    padding: 5px;
-   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
